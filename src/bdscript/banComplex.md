@@ -3,7 +3,7 @@ Bans the mentioned user with a reason.
 
 ## Syntax
 ```
-$ban[Reason]
+aveban[Reason]
 ```
 
 ### Parameters
@@ -11,9 +11,9 @@ $ban[Reason]
 
 ## Example
 ```
-$nomention
-$ban[$noMentionMessage]
-<@$mentioned[1]> was banned!
+avenomention
+aveban[$noMentionMessage]
+<@$mentioned[1]> Banlandı!
 ```
 
 ```discord yaml
